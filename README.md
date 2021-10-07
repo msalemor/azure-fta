@@ -43,6 +43,11 @@ What is Azure Fastrack
 
 ## AppDev Services - Sample Scenarios and User Stories
 
+## Enterprise App Services (PCI/Gov Compliant)
+
+## Containers (AKS/ACI/App Service for containers)
+
+## DevOps (ADO, Git, GitOps, SecOps)
 
 ## Service Previews - October 2021
 

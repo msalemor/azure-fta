@@ -19,11 +19,21 @@ What is Azure Fastrack
 - We can help offload tasks so that you can concetrate on others
 - Work with partners (we cannot do hand-on keyboard)
 
-## Compute Selections
+## Security and Resiliency Reviews
+
+- We have implemented a security and resiliency program
+- We cover Azure Secuirty Center 
+- We drive conversation around resiliency
+
+## First Steps - Compute Selection
 
 ## AppDev Services
 
 ## Service Leads and PG Integration
+
+- FTA has an escalation hierarchy
+- From customer, to engineer, to service lead, to PG
+- Service Leapds are those engineers who are responsilble for developing deep bonds with the PG teams and who can answer scalation question about the service
 
 ### Who are the Service Leads and are their roles
 

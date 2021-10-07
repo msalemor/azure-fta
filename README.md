@@ -20,7 +20,7 @@ What is Azure Fastrack
 
 ## Feedback, Doc Contributions and Reference Architectures
 
-## Service Preview - October 2021
+## Service Previews - October 2021
 
 ### AKS
 

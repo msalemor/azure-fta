@@ -27,9 +27,6 @@
 - We cover Azure Secuirty Center and can brings engineers in other areas to fill all gaps
 - We drive conversations around resiliency
 
-## First Steps - Compute Selection
-
-
 ## Service Leads and PG Integration
 
 - FTA has an escalation hierarchy
@@ -43,6 +40,8 @@
 - As part of product feedback process, we also contribute towards enhancing existing docs, creating new docs, and developing reference architecutres
 
 ## AppDev Services - Sample Scenarios and User Stories
+
+### Compute Selection in AppDev Scenarios
 
 ### Enterprise App Services (PCI/Gov Compliant)
 

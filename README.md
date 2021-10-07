@@ -44,13 +44,13 @@
 
 ## AppDev Services - Sample Scenarios and User Stories
 
-## Enterprise App Services (PCI/Gov Compliant)
+### Enterprise App Services (PCI/Gov Compliant)
 
-## Containers (AKS/ACI/App Service for containers)
+### Containers (AKS/ACI/App Service for containers)
 
-## DevOps (ADO, Git, GitOps, SecOps)
+### DevOps (ADO, Git, GitOps, SecOps)
 
-## Service Previews - October 2021
+### Service Previews - October 2021
 
 ### AKS
 

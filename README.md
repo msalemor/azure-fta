@@ -50,7 +50,7 @@
 
 ### DevOps (ADO, Git, GitOps, SecOps)
 
-### Service Previews - October 2021
+## Service Previews - October 2021
 
 ### AKS
 

@@ -29,8 +29,7 @@
 
 ## Service Leads and PG Integration
 
-- FTA has an escalation hierarchy
-- From customer, to engineer, to service lead, to PG
+- FTA has an escalation hierarchy from customer, to engineer, to service lead, to PG
 - Service Leapds are those engineers who are responsilble for developing deep bonds with the PG teams and who can answer scalation question about the service
 - In some of our services, we are linked directly to the PGs backlog
 

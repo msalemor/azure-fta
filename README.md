@@ -10,7 +10,7 @@ What is Azure Fastrack
 
 ## AppDev Team
 
-- Work with PaaS and container services (Cloud 2.0)
+- Work with PaaS, container, and DevOps services (Cloud 2.0)
 - We provide architecture reviews, provide guidance and recommendations, and can help remove blockers/impediments
 
 ## Collaboration with others

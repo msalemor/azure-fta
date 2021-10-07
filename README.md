@@ -27,7 +27,6 @@ What is Azure Fastrack
 
 ## First Steps - Compute Selection
 
-## AppDev Services
 
 ## Service Leads and PG Integration
 
@@ -36,10 +35,13 @@ What is Azure Fastrack
 - Service Leapds are those engineers who are responsilble for developing deep bonds with the PG teams and who can answer scalation question about the service
 - In some of our services, we are linked directly to the PGs backlog
 
-## Feedback, Doc Contributions and Reference Architectures
+## Feedback, Docs Contributions and Reference Architectures
 
 - In addition to helping customers plan, build and deploy workloads to the cloud we also are tasked with submitting product feedback
 - As part of product feedback process, we also contribute towards enhancing existing docs, creating new docs, and developing reference architecutres
+
+## AppDev Services - Sample Scenarios and User Stories
+
 
 ## Service Previews - October 2021
 

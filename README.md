@@ -10,6 +10,15 @@ What is Azure Fastrack
 
 ## AppDev Team
 
+- Work with PaaS and container services
+- We provide architecture reviews, provide guidance and recommendations, and can help remove blockers/impediments
+
+## Collaboration with others
+
+- Customer who have worked with FTA have experienced dramatic ACR increases
+- We can help offload tasks so that you can concetrate on others
+- Work with partners (we cannot do hand-on keyboard)
+
 ## Compute Selections
 
 ## AppDev Services

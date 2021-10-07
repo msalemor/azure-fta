@@ -1,12 +1,13 @@
 # Azure FTA
 
-What is Azure Fastrack
+> We help customer plan, build and deploy workload to Azure!
 
 ## FTA Program
 
-- Nomination
-- Program requirements
-- Benefits to customer/company
+- What is the nomination process?
+- Who can be nominated and who can nominate?
+- Program requirements>
+- Benefits to customer/company?
 
 ## AppDev Team
 

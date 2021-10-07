@@ -46,9 +46,16 @@
 
 ### Enterprise App Services (PCI/Gov Compliant)
 
+- ASE v3 or App Service/App Gateway and fitlers
+- Azure FrontDoor
+
 ### Containers (AKS/ACI/App Service for containers)
 
-### DevOps (ADO, Git, GitOps, SecOps)
+- AKS Architecture
+- ASK Security
+- AKS Operations and monitoring
+
+### DevOps (ADO, Git Actions, GitOps, SecOps)
 
 ## Service Previews - October 2021
 

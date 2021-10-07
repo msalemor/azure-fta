@@ -22,6 +22,7 @@ What is Azure Fastrack
 ## Security and Resiliency Reviews
 
 - We have implemented a security and resiliency review program
+- We review the Azure Security Score at the beginning and at before the end of the project
 - We cover Azure Secuirty Center and can brings engineers in other areas to fill all gaps
 - We drive conversations around resiliency
 

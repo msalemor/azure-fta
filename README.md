@@ -22,9 +22,10 @@
 
 ## Security and Resiliency Reviews
 
-- We have implemented a security and resiliency review program
-- We review the Azure Security Score at the beginning and at before the end of the project
-- We cover Azure Secuirty Center and can brings engineers in other areas to fill all gaps
+- We have implemented a security and resiliency review programs
+- We review the Azure Security score at the beginning of the project and before the end of the project
+  - We cover the Azure Center features and recommendations
+  - We can brings engineers in other areas to fill all security areas
 - We drive conversations around resiliency
 
 ## Service Leads and PG Integration

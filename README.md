@@ -22,7 +22,7 @@
 
 ## Security and Resiliency Reviews
 
-- We have implemented a security and resiliency review programs
+- We have implemented security and resiliency review programs
 - We review the Azure Security score at the beginning of the project and before the end of the project
   - We cover the Azure Center features and recommendations
   - We can brings engineers in other areas to fill all security areas
